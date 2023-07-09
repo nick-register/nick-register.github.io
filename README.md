@@ -6,3 +6,7 @@ Over the next few days/weeks, while applying for jobs, I will be updating this p
 that showcase my developing skills.
 
 Thanks for checking it out!
+
+### Updated late 7/7/23
+
+Rewrote some redundant code, stylized, added tier list project
